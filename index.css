@@ -1,0 +1,39 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    color: white;
+}
+
+a{
+    
+    text-decoration: none;
+    transition: .1s;
+}
+g{
+    font-weight: bold;
+    white-space: pre-wrap;
+}
+a:hover{
+    transition: .1s;
+    color: rgb(183, 145, 255);
+}
+
+#books{
+    font-weight: bold;
+    display: grid;
+    text-align: center;
+    align-content: center;
+}
+
+body{
+    width: 99.5%;
+    height: 100%;
+    background-size: 100%;
+    background: linear-gradient(0turn, #4a137a, #453b4e) no-repeat;
+    background-attachment: fixed;
+
+}
+
+html{
+    height:100%;
+}
