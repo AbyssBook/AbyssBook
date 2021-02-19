@@ -26,12 +26,9 @@ a:hover{
 }
 
 body{
-    width: 99.5%;
     height: 100%;
     background-size: 100%;
-    background: linear-gradient(0turn, #4a137a, #453b4e) no-repeat;
-    background-attachment: fixed;
-
+    background-color: #4a137a;
 }
 
 html{
